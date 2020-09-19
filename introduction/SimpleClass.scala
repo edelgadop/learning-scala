@@ -22,9 +22,3 @@ class SimpleClass {
     difference + "\n" + "x * y = " + product
 }
 
-object Main extends App {
-  var simpClass = new SimpleClass
-  simpClass.x = 10
-  simpClass.y = 5
-  print(simpClass)
-}
