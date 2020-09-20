@@ -1,4 +1,4 @@
-package strings
+package projects.strings
 
 object StringInterpolation extends App {
   println("***Example 1: s interpolator ")

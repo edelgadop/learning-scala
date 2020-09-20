@@ -1,4 +1,4 @@
-package lists
+package projects.lists
 
 object BasicListPractice extends App {
   val list1: List[Integer] = List(1, 2, 3, 4, 5)

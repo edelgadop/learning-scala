@@ -1,4 +1,4 @@
-package introduction
+package projects.introduction
 
 object Main extends App {
   var simpClass = new SimpleClass

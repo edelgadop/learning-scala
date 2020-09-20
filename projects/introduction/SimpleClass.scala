@@ -1,4 +1,4 @@
-package introduction
+package projects.introduction
 
 class SimpleClass {
   private var _x: Int = 0

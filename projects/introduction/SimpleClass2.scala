@@ -1,4 +1,4 @@
-package introduction
+package projects.introduction
 
 class SimpleClass2 (x: Int, y: Int) {
   def sum: Int = x + y
