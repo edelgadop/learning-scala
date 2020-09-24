@@ -1,5 +1,4 @@
 import java.text.SimpleDateFormat
-
 import scala.annotation.tailrec
 
 // Exercise 1
