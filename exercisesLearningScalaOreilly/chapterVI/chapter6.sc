@@ -54,3 +54,8 @@ t1 = System.nanoTime()
 println(f"Elapsed time ${(t1-t0)/1e6}%.2f ns")
 
 
+// Exercise 6
+def reverse[A](l: List[A]): List[A] =
+  for (i<-l) yield l(l.length-l.indexOf(i)-1)
+reverse(List(1,2,3,4,5))
+
